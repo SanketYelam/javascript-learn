@@ -1,0 +1,21 @@
+
+
+html,body{
+font-size: 35px;
+}
+
+h1{
+    color: red;
+
+}
+h2{
+    color: orange;
+}
+h3{
+    color: seagreen;
+}
+
+h1,h2,h3{
+    margin-top: 0%;
+    margin-block: 0%;
+}
